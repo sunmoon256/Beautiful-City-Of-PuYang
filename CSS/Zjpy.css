@@ -1,0 +1,39 @@
+#banner img{
+	position:absolute;
+}
+#content{
+	height:2180px;
+}
+#content .p1{
+	width:700px;
+	padding-top:20px;
+	padding-left:20px;
+	line-height: 30px;
+}
+#content .fh1{
+	font-family: "¿¬Ìå";
+	color: #333333;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-weight: normal;
+}
+#content .p2{
+	padding:20px 20px;
+	line-height: 30px;
+}
+#content .fh2{
+	font-family: "·ÂËÎ";
+	color: #333333;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	font-weight: normal;
+}
+#content .fhr {
+	color: #333333;
+	text-align: center;
+	height: 1px;
+	width: 200px;
+	margin:0px auto;
+}

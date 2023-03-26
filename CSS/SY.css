@@ -1,0 +1,47 @@
+#banner img{
+	position:absolute;
+}
+#banner .container{
+	height:400px;
+}
+#content{
+	height:530px;
+}
+#content .fh2 {
+	font-family: "¿¬Ìå";
+	color: #333333;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-weight: normal;
+}
+#content .fh3 {
+	font-family: "·ÂËÎ";
+	color: #333333;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	font-weight: normal;
+}
+#content .fhr {
+	color: #333333;
+	text-align: center;
+	height: 1px;
+	width: 200px;
+	margin:0px auto;
+}
+#content .t-left{
+	width: 250px;
+}
+
+#content .h-left{
+	margin:10px auto;
+}
+#content .z-left{
+	font-family: "ËÎÌå";
+	font-size: 14px;		
+}
+#content .t-center{
+	width: 250px;
+	margin:0px 127px;
+}

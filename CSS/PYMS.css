@@ -1,0 +1,42 @@
+#content{
+	height:2700px;
+}
+#content .fhr {
+	color: #333333;
+	text-align: center;
+	height: 1px;
+	width: 200px;
+	margin:0px auto;
+}
+#content .fh2 {
+	font-family: "����";
+	color: #555555;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-weight: normal;
+}
+#content .fh3-1 {
+	font-family: "����";
+	color: #555555;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+}
+#content .fh3 {
+	font-family: "����";
+	color: #C0AA2C;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+	text-decoration: underline;
+}
+#content .fimg{
+	padding:0px 252px 60px;
+}
+#content .fp{
+	padding:20px 20px;
+	line-height: 30px;
+}
